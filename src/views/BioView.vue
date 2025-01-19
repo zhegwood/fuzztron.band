@@ -17,7 +17,7 @@
       Salida, we're looking to expand into the Front Range and summer festivals.
     </p>
     <hr class="my-4 border-gray-300" />
-    <div class="grid grid-cols-3 gap-4">
+    <div class="grid grid-rows-3 gap-4 lg:grid-rows-1 lg:grid-cols-3">
       <div class="p-2 bg-white border border-gray-500 rounded-lg">
         <p class="italic">Get ready, we’re very excited for this one! Heart of the Rockies Radio Presents
           @fuzztron_band, an out-of-this-world local trio that brings funky jams that will make you want to move your

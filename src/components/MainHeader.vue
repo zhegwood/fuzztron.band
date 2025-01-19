@@ -35,14 +35,14 @@
 
       </button>
     </menu>
-    <ul v-if="expanded" class="flex flex-col gap-2 p-4 border-b">
+    <ul v-if="expanded" class="flex flex-col gap-3 p-4 border-b">
       <li>
-        <RouterLink :to="{ name: 'home' }" class="block hover:underline" @click="expanded = false">
+        <RouterLink :to="{ name: 'home' }" class="block text-lg hover:underline" @click="expanded = false">
           Bio
         </RouterLink>
       </li>
       <li>
-        <RouterLink :to="{ name: 'booking' }" class="block hover:underline" @click="expanded = false">
+        <RouterLink :to="{ name: 'booking' }" class="block text-lg hover:underline" @click="expanded = false">
           Booking
         </RouterLink>
       </li>
@@ -54,15 +54,15 @@
       </li>
       -->
       <li>
-        <RouterLink :to="{ name: 'videos' }" class="block hover:underline" @click="expanded = false">
+        <RouterLink :to="{ name: 'videos' }" class="block text-lg hover:underline" @click="expanded = false">
           Videos
         </RouterLink>
       </li>
       <li>
-        <RouterLink to="https://www.instagram.com/fuzztron_band/" class="block hover:underline" target="_blank"
+        <a href="https://www.instagram.com/fuzztron_band/" class="block text-lg hover:underline" target="_blank"
           @click="expanded = false">
           Instagram
-        </RouterLink>
+        </a>
       </li>
     </ul>
     <menu class="justify-center hidden py-2 border-t border-b sm:flex grow">
