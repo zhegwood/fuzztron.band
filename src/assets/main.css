@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#app {
+  height: 100vh;
+}
+
+.link {
+  @apply text-blue-700;
+}
+.link:hover {
+  @apply underline;
+}
