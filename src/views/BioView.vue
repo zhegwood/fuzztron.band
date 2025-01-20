@@ -13,8 +13,8 @@
       cover a musical spectrum not recently heard or seen in the Valley. Some of what we play is rehearsed, but a lot of
       it is improvizational and many of our rehearsed songs go off on tangents we've never before explored. We often
       bring up friends to sit in ranging from guitar to keyboards/synth, harmonica, and saxophone, which add another
-      layer to our already spontaneous jams. After over a year of playing shows from Leadville to Salida, we're looking
-      to expand into the Front Range and summer festivals.
+      layer to our sound. After over a year of playing shows from Leadville to Salida, we're looking to expand into the
+      Front Range and summer festivals.
     </p>
     <hr class="my-4 border-gray-300" />
     <div class="grid grid-rows-3 gap-4 lg:grid-rows-1 lg:grid-cols-3">
