@@ -9,17 +9,17 @@
     <hr class="my-4 border-gray-300" />
     <p class="mb-4">
       <img src="@/assets/images/band.jpg" alt="Fuzztron at The Velveteen" class="mx-auto mb-4 rounded-lg max-h-80" />
-      Fuzztron is a 3-piece instrumental psychedelic jam band from Salida, CO. Mixing in elements of rock, funk, and
-      jazz, we cover a musical spectrum not recently heard or seen in the Valley. Some of what we play is rehearsed, but
-      a lot of it is improvizational and many of our rehearsed jams go off on tangents we've never before explored. We
-      often bring up friends to sit in ranging from guitar to keyboards/Moog, harmonica, and saxophone,
-      which add another layer to our already spontaneous jams. After over a year of playing shows from Leadville to
-      Salida, we're looking to expand into the Front Range and summer festivals.
+      Fuzztron is a 3-piece instrumental psychedelic rock band from Salida, CO. Mixing in elements of funk and jazz, we
+      cover a musical spectrum not recently heard or seen in the Valley. Some of what we play is rehearsed, but a lot of
+      it is improvizational and many of our rehearsed songs go off on tangents we've never before explored. We often
+      bring up friends to sit in ranging from guitar to keyboards/synth, harmonica, and saxophone, which add another
+      layer to our already spontaneous jams. After over a year of playing shows from Leadville to Salida, we're looking
+      to expand into the Front Range and summer festivals.
     </p>
     <hr class="my-4 border-gray-300" />
     <div class="grid grid-rows-3 gap-4 lg:grid-rows-1 lg:grid-cols-3">
       <div class="p-2 bg-white border border-gray-500 rounded-lg">
-        <p class="italic">Get ready, we’re very excited for this one! Heart of the Rockies Radio Presents
+        <p class="italic">Get ready, we're very excited for this one! Heart of the Rockies Radio Presents
           @fuzztron_band, an out-of-this-world local trio that brings funky jams that will make you want to move your
           body all night!</p>-@thepeak923 Instagram
       </div>
@@ -40,10 +40,9 @@
     <h3 class="mb-2 text-xl">Monty</h3>
     <p>
       <img src="@/assets/images/monty.jpg" alt="Monty on Guitar" class="float-left mr-4 rounded-lg w-52" />
-      Piano lessons at an early age led to the self study of guitar by middle school and a lifelong obsession with his
-      instrument. When Monty's not digging into some corner of music theory, he's likely in his garage going through an
-      old tube amplifier, setting up a partscaster, or trying to coax some new sounds out of a guitar pedal. Musical
-      influences include Julian Lage, Tony Rice, Mark Knopfler, Jimi, Jerry, Trey, and beyond.
+      When Monty's not picking guitar for Fuzztron he's likely in his garage going through an old tube amp, setting up a
+      partscaster, or trying to coax some new sounds out of a guitar pedal. Music influences include Jimi, Jerry, Trey
+      and beyond.
     </p>
     <div class="clear-both mb-4" />
     <h3 class="mb-2 text-xl">Mikey</h3>
