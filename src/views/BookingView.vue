@@ -12,8 +12,9 @@
     <UpcomingShows class="mb-4" />
     <div class="mb-4">
       <h2 class="mb-2 text-2xl">Past Shows</h2>
-      <p class="mb-1">1/11/2025 - Main Street Tavernt - Buena Vista, CO</p>
+      <p class="mb-1">1/11/2025 - Main Street Tavern - Buena Vista, CO</p>
       <p class="mb-1">12/13/2024 - Tres Litros Beer Co - Salida, CO</p>
+      <p class="mb-1">12/7/2024 - Private Party - Salida, CO</p>
       <p class="mb-1">11/8/2024 - Victoria Tavern - Salida, CO</p>
       <p class="mb-1">10/12/2024 - Wood's Distillery - Salida, CO</p>
       <p class="mb-1">9/13/2024 - The Velveteen - Salida, CO</p>
