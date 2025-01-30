@@ -24,6 +24,11 @@ const router = createRouter({
       name: 'videos',
       component: () => import('@/views/VideosView.vue'),
     },
+    {
+      path: '/tech-stage',
+      name: 'tech-stage',
+      component: () => import('@/views/TechStageView.vue'),
+    },
     /*
     {
       path: '/about',

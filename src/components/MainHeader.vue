@@ -8,15 +8,14 @@
   <div class="fixed top-0 left-0 right-0 z-10 bg-white">
     <div class="flex items-center justify-center gap-4 py-2 bg-purple-300 py-sm-4 flex-nowrap">
       <div>
-        <img src="@/assets/images/FuzzTV48.png" alt="TV" class="block h-12 sm:hidden tv-image" />
-        <img src="@/assets/images/FuzzTV96.png" alt="TV" class="hidden h-24 sm:block lg:hidden tv-image" />
-        <img src="@/assets/images/FuzzTV144.png" alt="TV" class="hidden h-36 lg:block tv-image" />
+        <img src="@/assets/images/FuzzTV48.png" alt="TV" class="block h-12 sm:hidden aspect-[4/3]" />
+        <img src="@/assets/images/FuzzTV96.png" alt="TV" class="hidden h-24 sm:block lg:hidden aspect-[4/3]" />
+        <img src="@/assets/images/FuzzTV144.png" alt="TV" class="hidden h-36 lg:block aspect-[4/3]" />
       </div>
       <div>
-        <img src="@/assets/images/Fuzzlogo48.png" alt="Fuzztron" class="block h-12 sm:hidden fuzztron-image" />
-        <img src="@/assets/images/Fuzzlogo96.png" alt="Fuzztron"
-          class="hidden h-24 sm:block lg:hidden fuzztron-image" />
-        <img src="@/assets/images/Fuzzlogo144.png" alt="Fuzztron" class="hidden h-36 lg:block fuzztron-image" />
+        <img src="@/assets/images/Fuzzlogo48.png" alt="Fuzztron" class="block h-12 sm:hidden aspect-[5/1]" />
+        <img src="@/assets/images/Fuzzlogo96.png" alt="Fuzztron" class="hidden h-24 sm:block lg:hidden aspect-[5/1]" />
+        <img src="@/assets/images/Fuzzlogo144.png" alt="Fuzztron" class="hidden h-36 lg:block aspect-[5/1]" />
       </div>
     </div>
     <menu class="flex items-center justify-end h-10 border-t border-b sm:hidden">
@@ -59,6 +58,11 @@
         </RouterLink>
       </li>
       <li>
+        <RouterLink :to="{ name: 'tech-stage' }" class="block text-lg hover:underline" @click="expanded = false">
+          Tech and Stage
+        </RouterLink>
+      </li>
+      <li>
         <a href="https://www.instagram.com/fuzztron_band/" class="block text-lg hover:underline" target="_blank"
           @click="expanded = false">
           Instagram
@@ -90,6 +94,11 @@
           </RouterLink>
         </li>
         <li>
+          <RouterLink :to="{ name: 'tech-stage' }" class="hover:underline">
+            Tech and Stage
+          </RouterLink>
+        </li>
+        <li>
           <a href="https://www.instagram.com/fuzztron_band/" class="hover:underline" target="_blank">
             Instagram
           </a>
@@ -98,13 +107,3 @@
     </menu>
   </div>
 </template>
-<style scoped
-  lang="scss">
-  .tv-image {
-    aspect-ratio: 4 / 3;
-  }
-
-  .fuzztron-image {
-    aspect-ratio: 5 / 1;
-  }
-</style>
