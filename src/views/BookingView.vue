@@ -21,7 +21,7 @@
       <p class="mb-1">8/31/2024 - Tres Litros Beer Co - Salida, CO</p>
       <p class="mb-1">7/19/2024 - Pastime Saloon - Leadville, CO</p>
       <p class="mb-1">7/13/2024 - The Velveteen - Salida, CO</p>
-      <p class="mb-1">6/15/2024 - Wood's Distillery - Salida, CO</p>
+      <p class="mb-1">6/15/2024 - FIBArk! - Wood's Distillery - Salida, CO</p>
       <p class="mb-1">5/11/2024 - The Velveteen - Salida, CO</p>
       <p class="mb-1">4/27/2024 - Tres Litros Beer Co - Salida, CO</p>
       <p class="mb-1">4/13/2024 - Wood's Distillery - Salida, CO</p>
