@@ -12,6 +12,9 @@
     <UpcomingShows class="mb-4" />
     <div class="mb-4">
       <h2 class="mb-2 text-2xl">Past Shows</h2>
+      <p class="mb-1">5/17/2025 - Big Damn Jam - A-Church Salida, CO</p>
+      <p class="mb-1">3/22/2025 - Wood's Distillery - Salida, CO</p>
+      <p class="mb-1">2/22/2025 - Private Party - Leadville, CO</p>
       <p class="mb-1">1/11/2025 - Main Street Tavern - Buena Vista, CO</p>
       <p class="mb-1">12/13/2024 - Tres Litros Beer Co - Salida, CO</p>
       <p class="mb-1">12/7/2024 - Private Party - Salida, CO</p>

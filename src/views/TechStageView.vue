@@ -45,10 +45,10 @@
       <h3 class="mb-2 text-xl">Zach (bass)</h3>
       <ul class="mb-2 ml-6 list-disc">
         <li>4 string bass (standard tuning)</li>
-        <li>200-350w bass amp - Ampeg PF350 or Peavey VB-2</li>
+        <li>500w bass amp - Laney Digbeth</li>
         <li>2x 2x10 bass speaker cabinets (Ampeg PF210)</li>
-        <li>Various pedals incl. compression, fuzz, distortion, and DI</li>
-        <li>DI from SGT-DI pedal, not from bass amp</li>
+        <li>Various pedals incl. compression, fuzz, chorus distortion, and DI</li>
+        <li>DI from Laney</li>
       </ul>
     </div>
   </div>
