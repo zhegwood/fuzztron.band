@@ -64,8 +64,7 @@
       first bass and never looked back. Prior to moving to Poncha Springs in 2020, Zach spent 20+ years on the Front
       Range playing in punk rock and metal bands. Most noteably, Straighten the Crooked and Sounds Like Words, both of
       which can be found on Bandcamp and Sounds Like Words has a few recordings on Spotify. Alongside Fuzztron, Zach
-      also plays bass in the local Santana tribue band, Santa Rios, and occasionally plays with Cookie Baker & the
-      Morsels.
+      also plays bass with Cookie Baker & the Morsels.
     </p>
     <div class="clear-both mb-4" />
   </div>

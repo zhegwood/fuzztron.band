@@ -12,6 +12,9 @@
     <UpcomingShows class="mb-4" />
     <div class="mb-4">
       <h2 class="mb-2 text-2xl">Past Shows</h2>
+      <p class="mb-1">7/5/2025 - The Velveteen - 7-10pm - Salida, CO</p>
+      <p class="mb-1">6/14/2025 - FIBArk! The Vic - 8-11pm - Salida, CO</p>
+      <p class="mb-1">6/12/2025 - FIBArk! Riverside Park - 5:30-7pm - Salida, CO</p>
       <p class="mb-1">5/17/2025 - Big Damn Jam - A-Church Salida, CO</p>
       <p class="mb-1">3/22/2025 - Wood's Distillery - Salida, CO</p>
       <p class="mb-1">2/22/2025 - Private Party - Leadville, CO</p>
