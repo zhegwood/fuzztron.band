@@ -10,11 +10,11 @@
     <p class="mb-4">
       <img src="@/assets/images/band.jpg" alt="Fuzztron at The Velveteen" class="mx-auto mb-4 rounded-lg max-h-80" />
       Fuzztron is a 3-piece instrumental psychedelic rock band from Salida, CO. Mixing in elements of funk and jazz, we
-      cover a musical spectrum not recently heard or seen in the Valley. Some of what we play is rehearsed, but a lot of
+      cover a musical spectrum not common in our local music scene. Some of what we play is rehearsed, but a lot of
       it is improvizational and many of our rehearsed songs go off on tangents we've never before explored. We often
       bring up friends to sit in ranging from guitar to keyboards/synth, harmonica, and saxophone, which add another
-      layer to our sound. After over a year of playing shows from Leadville to Salida, we're looking to expand into the
-      Front Range and summer festivals.
+      layer to our sound. After nearly two years of playing shows from Leadville to Salida, and a slot kicking off
+      FIBArk 2025 we're looking to keep playing shows and festivals in and around the Arkansas River Valley.
     </p>
     <hr class="my-4 border-gray-300" />
     <div class="grid grid-rows-3 gap-4 lg:grid-rows-1 lg:grid-cols-3">
