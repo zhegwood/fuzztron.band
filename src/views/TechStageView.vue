@@ -47,7 +47,7 @@
         <li>4 string bass (standard tuning)</li>
         <li>500w bass amp - Laney Digbeth</li>
         <li>2x 2x10 bass speaker cabinets (Ampeg PF210)</li>
-        <li>Various pedals incl. compression, fuzz, chorus distortion, and DI</li>
+        <li>Various pedals incl. compression, fuzz, chorus, distortion, and DI</li>
         <li>DI from Laney</li>
       </ul>
     </div>

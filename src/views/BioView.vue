@@ -11,9 +11,9 @@
       <img src="@/assets/images/band.jpg" alt="Fuzztron at The Velveteen" class="mx-auto mb-4 rounded-lg max-h-80" />
       Fuzztron is a 3-piece instrumental psychedelic rock band from Salida, CO. Mixing in elements of funk and jazz, we
       cover a musical spectrum not common in our local music scene. Some of what we play is rehearsed, but a lot of
-      it is improvizational and many of our rehearsed songs go off on tangents we've never before explored. We often
+      it is improvized and many of our rehearsed songs go off on tangents we've never before explored. We often
       bring up friends to sit in ranging from guitar to keyboards/synth, harmonica, and saxophone, which add another
-      layer to our sound. After nearly two years of playing shows from Leadville to Salida, and a slot kicking off
+      layer to our sound. After over two years of playing shows from Leadville to Salida, and a slot kicking off
       FIBArk 2025 we're looking to keep playing shows and festivals in and around the Arkansas River Valley.
     </p>
     <hr class="my-4 border-gray-300" />
@@ -64,7 +64,7 @@
       first bass and never looked back. Prior to moving to Poncha Springs in 2020, Zach spent 20+ years on the Front
       Range playing in punk rock and metal bands. Most noteably, Straighten the Crooked and Sounds Like Words, both of
       which can be found on Bandcamp and Sounds Like Words has a few recordings on Spotify. Alongside Fuzztron, Zach
-      also plays bass with Cookie Baker & the Morsels and formerly played with Santa Rios.
+      also plays bass with Vista Boys, Cookie Baker & the Morsels, and with Santa Rios from time to time.
     </p>
     <div class="clear-both mb-4" />
   </div>
