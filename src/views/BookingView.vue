@@ -12,6 +12,7 @@
     <UpcomingShows class="mb-4" />
     <div class="mb-4">
       <h2 class="mb-2 text-2xl">Past Shows</h2>
+      <p class="mb-1">5/30/2026 - Tres Litros Brewing</p>
       <p class="mb-1">3/27/2026 - The Vic - Salida, CO</p>
       <p class="mb-1">3/7/2026 - Wood's Distillery - Salida, CO</p>
       <p class="mb-1">11/1/2025 - Elevation Brewing - Poncha Springs, CO</p>

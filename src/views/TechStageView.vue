@@ -17,7 +17,7 @@
       <ul class="ml-6 list-disc">
         <li>Fender Stratocaster or Telecaster (standard tuning)</li>
         <li>Vintage Fender guitar amps - Princeton Reverb or Super Reverb</li>
-        <li>1x12 or 4x10 guitar speaker cabinets</li>
+        <li>1x12 = 1x10 stere/dual mono or 4x10 guitar speaker cabinets</li>
         <li>Various pedals incl. compression, drive, fuzz, delay, wah</li>
       </ul>
     </div>
